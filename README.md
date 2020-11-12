@@ -1,5 +1,3 @@
 # deyan-hadzhiev.github.io
 
----
-permalink: /loop_subdivision
----
+[Loop subdivsion](/loop_subdivision)
